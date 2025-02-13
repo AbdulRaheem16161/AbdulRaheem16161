@@ -2,7 +2,7 @@
 
 🎮 **Aspiring Game Developer | Unity C# | 2D & 3D Game Development**  
 
-I've always been fascinated by video games—not just playing them, but building them from the ground up. This curiosity led me to dive into **Unity C# scripting**, where I’ve been self-learning **2D & 3D game development** for the past few months through YouTube and ChatGPT.  
+I specialize in 2D and 3D game development using Unity C#, continuously refining my skills through self-learning and hands-on projects.  
 
 ### 🚀 What I'm Working On:
 - 🛠️ **Top-down Real-Time Strategy Game** (My second project)
