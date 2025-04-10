@@ -1,25 +1,59 @@
-## Hi there! 👋 I'm AbdulRaheem  
+# 👋 Hey, I'm AbdulRaheem
 
-🎮 **Aspiring Game Developer | Unity C# | 2D & 3D Game Development**  
+🎮 Aspiring Game Developer | 🧠 Unity C# Programmer | 🚀 Self-Taught & Hungry to Learn
 
-I specialize in 2D and 3D game development using Unity C#, continuously refining my skills through self-learning and hands-on projects.  
+---
 
-### 🚀 Featured Project:  
-🚗 **[New Buggy File (3D Car Combat Game)](https://abdulraheem16161.itch.io/new-buggy-file)** – My first game project, built in Unity! Check it out on Itch.io.  
+## 🧩 About Me
 
-### 🔧 What I'm Working On:  
-- 🛠️ **Top-down Real-Time Strategy Game** (My second project)  
-- 🎨 **2D Character Animation** (Using Krita, Toon Boom Harmony, and TVPaint)  
+I'm a self-taught game developer from Pakistan with 6 months of hands-on experience building games in Unity (2D & 3D). I love programming AI, crafting gameplay mechanics, and adding that extra “juice” to make games feel alive.  
 
-### 📖 What I'm Learning:  
-- 🕹️ Advanced **game mechanics & AI in Unity**  
-- 🎮 **Game optimization & performance improvements**  
-- 🧑‍💻 **Git & GitHub for version control**  
-- 💼 **Preparing for internships & freelance work in game development**  
+Currently looking for an internship to sharpen my skills and work on real-world game projects.
 
-### 🤝 Let's Connect:  
-- 📱 **WhatsApp (Preferred):** [Chat on WhatsApp](https://wa.me/923364518167)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulraheem-usman-1603011a3/)  
-- ✉️ **Email:** AbdulRaheem16161@gmail.com  
+> I don’t just watch tutorials. I *build* things. Break them. Fix them. Repeat.
 
-I'm open to **collaborations, internships, and freelance opportunities** in game development. If you're working on an exciting project and need a dedicated developer, let's build something awesome together! 🚀  
+---
+
+## 🛠️ My Skills
+
+- **Languages & Tools:** C#, Unity (2D/3D), GitHub
+- **Core Focus Areas:**
+  - 🧠 Game Mechanics
+  - 🤖 AI Programming
+  - ⚙️ Physics & Feel
+  - ✨ Visual Polish
+
+---
+
+## 🕹️ Projects
+
+### 🚗 3D Buggy Combat Game  
+An arcade-style vehicular shooter with AI enemies, juicy controls, and smooth combat.  
+- AI enemies with custom logic  
+- Driving & shooting mechanics  
+- Tuned and polished for fun factor
+
+🎮 **Play as Player vs AI** → [itch.io link](https://abdulraheem16161.itch.io/player-vs-ai)  
+🤖 **AI Showcase Mode** → [itch.io link](https://abdulraheem16161.itch.io/showcaseai)
+
+---
+
+### ⚔️ 2D Real-Time Strategy Game *(WIP)*  
+Currently building a top-down RTS focused on smart unit control, resource management, and enemy AI.  
+Still in progress, but evolving fast 💡
+
+---
+
+## 📫 Let’s Talk!
+
+I’m open to **internships, collabs, or just game dev banter**. If you’re building something cool, hit me up!
+
+📧 Email: AbdulRaheem16161@gmail.com  
+📱 WhatsApp: [Click to Chat](https://wa.me/923364518167)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulraheem-usman-1603011a3/)  
+🕹️ [itch.io Portfolio](https://abdulraheem16161.itch.io)
+
+---
+
+> “I build. I break. I fix. I learn. And I keep going.”
+
