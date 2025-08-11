@@ -1,59 +1,36 @@
-# 👋 Hey, I'm AbdulRaheem
+👋 Hey, I'm AbdulRaheem!
+C# Unity Game Developer | Lead Programmer @ Pixle Forge Studio | Indie Game Creator 🚀
 
-🎮 Aspiring Game Developer | 🧠 Unity C# Programmer | 🚀 Self-Taught & Hungry to Learn
+🎮 What I Do
+I’m a passionate Unity C# developer with 1 year of hands-on experience building games that don’t just copy — they innovate and engage. Together with my awesome team, I co-founded an indie game studio where I lead programming efforts, turning fresh ideas into fun, polished experiences.
 
----
+🛠 Core Development Expertise
+⚡ Multiplayer Systems: Photon PUN networking, multiplayer sync, lag compensation
 
-## 🧩 About Me
+🤖 Artificial Intelligence: Pathfinding, AI-driven vehicles, advanced state machines
 
-I'm a self-taught game developer from Pakistan with 6 months of hands-on experience building games in Unity (2D & 3D). I love programming AI, crafting gameplay mechanics, and adding that extra “juice” to make games feel alive.  
+🔫 Combat & Controls: Auto-aim weapons, physics-based vehicle controllers
 
-Currently looking for an internship to sharpen my skills and work on real-world game projects.
+🎲 Gameplay Systems: Power-ups, health & healing, scoring & respawn mechanics
 
-> I don’t just watch tutorials. I *build* things. Break them. Fix them. Repeat.
+🎛 User Experience: UI backend, immersive audio integration
 
----
+💻 Platforms & Skills
+Unity 3D & 2D
 
-## 🛠️ My Skills
+C# Scripting (Gameplay, AI, Tools)
 
-- **Languages & Tools:** C#, Unity (2D/3D), GitHub
-- **Core Focus Areas:**
-  - 🧠 Game Mechanics
-  - 🤖 AI Programming
-  - ⚙️ Physics & Feel
-  - ✨ Visual Polish
+Multiplayer Networking (Photon PUN)
 
----
+🚀 Current Role
+Lead Programmer @ Pixle Forge Studio
 
-## 🕹️ Projects
+🔗 Quick Links
+📄 Resume  : https://drive.google.com/file/d/1sl5kadz0uFcxPdb84Q4aA4iPS6Gvu33H/view
+🌐 Website : https://studio-slick-site.lovable.app/
+🔗 LinkedIn : https://www.linkedin.com/in/abdulraheem-usman/
 
-### 🚗 3D Buggy Combat Game  
-An arcade-style vehicular shooter with AI enemies, juicy controls, and smooth combat.  
-- AI enemies with custom logic  
-- Driving & shooting mechanics  
-- Tuned and polished for fun factor
+💡 Fun Fact
+I build things the hard way—no shortcuts, no prefab shortcuts—just pure code, broken things, fixed things, and leveled up skills.
 
-🎮 **Play as Player vs AI** → [itch.io link](https://abdulraheem16161.itch.io/player-vs-ai)  
-🤖 **AI Showcase Mode** → [itch.io link](https://abdulraheem16161.itch.io/showcaseai)
-
----
-
-### ⚔️ 2D Real-Time Strategy Game *(WIP)*  
-Currently building a top-down RTS focused on smart unit control, resource management, and enemy AI.  
-Still in progress, but evolving fast 💡
-
----
-
-## 📫 Let’s Talk!
-
-I’m open to **internships, collabs, or just game dev banter**. If you’re building something cool, hit me up!
-
-📧 Email: AbdulRaheem16161@gmail.com  
-📱 WhatsApp: [Click to Chat](https://wa.me/923364518167)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulraheem-usman-1603011a3/)  
-🕹️ [itch.io Portfolio](https://abdulraheem16161.itch.io)
-
----
-
-> “I build. I break. I fix. I learn. And I keep going.”
-
+If you want to chat game dev, swap tips, or just talk about the magic behind multiplayer, hit me up! 🎉
